@@ -1,6 +1,12 @@
 .two-columns {
   display: flex;
   margin: 0 auto 0 auto;
-  width: 80%;
+  max-width: 80%;
   justify-content: space-between;
+}
+
+@media screen and (max-width: 1279px) {
+  .two-columns {
+    gap: 20px;
+  }
 }

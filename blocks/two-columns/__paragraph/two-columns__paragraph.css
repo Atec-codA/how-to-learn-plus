@@ -2,3 +2,9 @@
   margin-bottom: 30px;
   margin-top: 0;
 }
+
+@media screen and (max-width: 1279px) {
+  .two-columns__paragraph {
+    margin-bottom: 20px;
+  }
+}

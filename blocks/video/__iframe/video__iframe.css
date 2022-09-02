@@ -3,3 +3,10 @@
   width: 515px;
   height: 316px;
 }
+
+@media screen and (max-width: 1279px) {
+  .video__iframe {
+    width: 465px;
+    height: 266px;
+  }
+}
