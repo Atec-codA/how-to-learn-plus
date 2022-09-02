@@ -7,4 +7,4 @@
 4. Bash
 5. БЭМ
 
-## [Посмотреть проект]([https://atec-coda.github.io/how-to-learn-plus/])
+## [Посмотреть проект](https://atec-coda.github.io/how-to-learn-plus/)
